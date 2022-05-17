@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958959121243",
+    "project_id": "amir-database",
+    "storage_bucket": "amir-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958959121243:android:d0c39d320dc2de7f5f607e",
+        "android_client_info": {
+          "package_name": "com.example.firedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958959121243-55vt7v61tj6h4badgihsmb45lcimob94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmqa6oB0VMnupvbNfUQP1Y18xUK5WmCsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958959121243-55vt7v61tj6h4badgihsmb45lcimob94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
