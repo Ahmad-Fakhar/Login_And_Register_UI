@@ -1,4 +1,5 @@
 # Login and Signup using firebase
+Simple login and signup app using Firebase
 # Language
 kotlin
 # Tool
